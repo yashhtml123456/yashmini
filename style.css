@@ -1,0 +1,149 @@
+body {
+    background: url(rm373batch13-086.jpg);
+    width: 100%;
+    height: 100%;
+
+}
+
+.c {
+    color: white;
+}
+
+.a {
+
+    border: 1px solid rgb(52, 43, 43);
+    border-width: 7px;
+    width: 198px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 100px;
+    outline-width: 4px;
+    outline-style: dotted;
+    outline-color: rgb(76, 112, 112);
+
+
+
+
+}
+
+#result {
+    width: 192px;
+    height: 36px;
+    color: black
+  
+}
+
+.w {
+    background-color: gray;
+    color: white;
+}
+
+.b {
+
+    margin-top: 10px;
+    margin-left: 4px;
+    margin-bottom: 6px;
+    background-color: gray;
+    color: white;
+}
+
+.c {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.d {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.e {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.g {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.h {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.i {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.j {
+    margin-left: 4px;
+    margin-bottom: 6px;
+    background-color: gray;
+    color: white;
+}
+
+.l {
+    margin-left: 8px;
+    padding-left: 0px;
+    padding-right: 3px;
+    margin-bottom: 6px;
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+.m {
+    margin-left: 4px;
+    background-color: gray;
+    color: white;
+}
+
+.n {
+    margin-left: 3px;
+    background-color: gray;
+    color: white;
+}
+
+.x {
+    margin-left: 0px;
+    margin-bottom: 6px;
+    background-color: gray;
+    color: white;
+}
+
+.y {
+    margin-left: 9px;
+    background-color: gray;
+    color: white;
+}
+
+.z {
+    margin-left: 5px;
+    padding-left: 8px;
+    background-color: gray;
+    color: white;
+
+}
+
+.f {
+    background-color: gray;
+    color: white;
+}
+
+.k {
+    background-color: gray;
+    color: white;
+}
+#o
+{
+    margin-left: 100px;
+    color: black;
+
+}
